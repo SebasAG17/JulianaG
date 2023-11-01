@@ -1,0 +1,99 @@
+* {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      font-family: Agbalumo;
+}
+body {
+      background-color: #F967E0;
+}
+.blog-universo {
+      font-size: 50px;
+      text-align: center;
+      margin-bottom: 10px;
+}
+.titulo-blog {
+      text-align: center;
+      font-size: 50px;
+      margin-bottom: 20px;
+}
+.texto-introductivo {
+      text-align: center;
+      font-size: 30px;
+      margin-bottom: 30px;
+}
+.contendor-texto {
+      margin: 40px;
+}
+.texto-introductivo-2 {
+      text-align: center;
+      font-size: 30px;
+}
+.post-h {
+      text-align: center;
+      font-size: 50px;
+      margin-bottom: 20px;
+}
+.post-hyper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+}
+.texto-saber {
+      font-size: 30px;
+      margin: 15px;
+}
+.hipervinculo-a {
+      font-size: 30px;
+      margin: 10px;
+}
+.post-imagen {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+.imagen-2 , .imagen-3{
+      width: 715px;
+}
+.imagen-1, .imagen-2{ 
+      margin-bottom: 50px;
+}
+.post-imagen > img {
+      border-radius: 40px;
+      border: 3px whitesmoke solid;
+}
+.titulo-imagenes {
+      text-align: center;
+      font-size: 50px;
+      margin-bottom: 40px;
+      margin-top: 60px;
+}
+.titulo-video {
+      text-align: center;
+      font-size: 50px;
+      margin-bottom: 20px;
+      margin-top: 10px;
+}
+.texto-agujero-negro {
+      text-align: center;
+      font-size: 25px;
+      margin-bottom: 20px;
+}
+.post-videos {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+video {
+      margin-bottom: 20px;
+}
+.extra {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin: 50px;
+}
